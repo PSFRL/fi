@@ -1,0 +1,14 @@
+#btn {
+    width: 200px;
+}
+.main {
+    display: flex;
+    justify-content: space-around;
+}
+
+#vyvod {
+    width: 200px;
+    border: 1px solid black;
+    background-color: antiquewhite;
+    color: black;
+}
